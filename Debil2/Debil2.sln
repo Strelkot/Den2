@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debil2", "Debil2\Debil2.csproj", "{0055B9DF-BDD4-47B1-B6F1-53E2D25BA41E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0055B9DF-BDD4-47B1-B6F1-53E2D25BA41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0055B9DF-BDD4-47B1-B6F1-53E2D25BA41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0055B9DF-BDD4-47B1-B6F1-53E2D25BA41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0055B9DF-BDD4-47B1-B6F1-53E2D25BA41E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6C3EC99-53A8-480A-BE15-299F65404476}
+	EndGlobalSection
+EndGlobal
